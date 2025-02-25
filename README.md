@@ -48,6 +48,3 @@ pip install opencv-python mediapipe pyautogui pillow
 ## Contribution
 If you would like to improve or contribute to the project, please open a pull request or contact me via GitHub.
 
-## License
-This project is released under the MIT license. You are free to use and modify it as needed.
-
