@@ -1,4 +1,5 @@
-# VisionPointer ## – A smart, hands-free eye-tracking system that lets users control the mouse cursor with just their eyes, enhancing accessibility and interaction. 🚀👀
+# VisionPointer
+*A smart, hands-free eye-tracking system that lets users control the mouse cursor with just their eyes, enhancing accessibility and interaction.* 🚀👀
 
 ## Introduction
 Eye Control Pointer is an application that uses OpenCV, MediaPipe, and PyAutoGUI to control the mouse cursor using eye movements. The program utilizes facial recognition and eye tracking to move the cursor and perform click actions by blinking.
